@@ -20,9 +20,6 @@ A timeline creator for anything.
 ### 🐄 Happy Animals
 A browser game full of hopping farm animals that make a lot of noise. Because not everything has to be serious.
 
-### 💥 [2D-destruction](https://github.com/joepk1989/2D-destruction)
-A small game experiment about breaking things, made with AI.
-
 ## 🧰 Toolbox
 
 | In the shed | On the screen |
