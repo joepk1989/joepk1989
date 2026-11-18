@@ -2,7 +2,7 @@
 
 **Maker from Eindhoven. Creative soul, a head full of ideas, and a pair of hands that knows what to do with them.**
 
-By day I run [Klussir](https://klussir.nl), my one-man handyman and painting business: carpentry, repairs, paint, light installations. By night I build the ideas that won't leave me alone. The approach is the same for a wardrobe under a sloped ceiling as for a game engine: measure twice, understand why it works, and leave it nicer than I found it.
+By day I run [Klussir](https://klussir.nl), my one-man handyman and painting business: carpentry, repairs, paint, light installations. By night I build the ideas that won't leave me alone. At the expense of my partner's free time. The approach is the same for a wardrobe under a sloped ceiling as for a game engine: measure twice, understand why it works, and leave it nicer than I found it.
 
 I'm not a trained programmer. I'm a builder who discovered that software is just another material, and that with AI as a co-developer I can finally make the things I've been sketching for years.
 
